@@ -99,8 +99,8 @@ function replaceText(v)
     v = v.replace(/\bgreat recession\b/g, "time of shedding and cold rocks");
 
     // The Great Depression
-    v = v.replace(/\bGreat Depression\b/g, "Clutch Plague");
-    v = v.replace(/\bgreat depression\b/g, "clutch plague");
+    //v = v.replace(/\bGreat Depression\b/g, "Clutch Plague");
+    //v = v.replace(/\bgreat depression\b/g, "clutch plague");
 
     // Occupy Wall Street
     v = v.replace(
